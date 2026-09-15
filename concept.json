@@ -1,0 +1,11 @@
+{
+  "slug": "v1-trench-radar",
+  "name": "V1 Trench Radar",
+  "kind": "trend",
+  "description": "Define filters for new meme launches that use atomic v1 creation patterns.",
+  "chain": "Solana",
+  "transactionVersion": 1,
+  "maxTransactionBytes": 4096,
+  "legacyTransactionBytes": 1232,
+  "status": "functional-prototype"
+}

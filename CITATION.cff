@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: If you use this software, please cite it as below.
+title: "v1-trench-radar"
+abstract: "Define filters for new meme launches that use atomic v1 creation patterns."
+repository-code: "https://github.com/nirholas/v1-trench-radar"
+url: "https://three.ws"
+authors:
+  - name: three.ws
+    website: "https://three.ws"

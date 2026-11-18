@@ -8,7 +8,7 @@ Define filters for new meme launches that use atomic v1 creation patterns.
 
 - Source: https://github.com/nirholas/v1-trench-radar
 - Primary language: HTML
-- License: Other (see the LICENSE file)
+- License: MIT (see the LICENSE file)
 
 ## Repository layout
 
